@@ -1,0 +1,3 @@
+# algotrender
+In the Trendline Syncing System (TSS), positions are based on the best entry and exit points in the rhythmic movements of trending markets, evaluated across multiple timeframes, applying aggregated analyst pull ratios, sentiment ratio analysis, and economic news event actuals versus forecasts.
+The next development phase is to build the UI for an algorithmic trading terminal, where users can configure and share their own strategies using the existing TSS libraries. The interface will gradually iterate to a stand-alone fintech app for people to optimise and automate their finances.
